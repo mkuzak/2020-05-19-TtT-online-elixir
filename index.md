@@ -142,13 +142,6 @@ attempt to provide them.
 
 <h3>Requirements</h3>
 
-Participants should bring a laptop that is Internet connected and has a
-functioning browser. If you have it, a device for recording audio and video
-(mobile phones and laptops are OK) is useful as throughout the two days, we
-are going to record one another teaching in pairs or threes. It does not have
-to be high-quality, but it should be good enough that you can understand what
-someone is saying.
-
 Please note that after this course is over, you will be asked to do
 three short follow-up exercises online in order to finish qualifying
 as an instructor: the details are available at
