@@ -46,11 +46,6 @@ locations:
 </iframe>
 {% endif %}
 
-<h2 id="registration">Registration</h2> 
-
-Please register via the Google form here: 
-<a href="http://bit.ly/elixir-carpentries-ttt-registration-form">http://bit.ly/elixir-carpentries-ttt-registration-form</a>
-
 <h2 id="general">General Information</h2> 
 
 <!--
@@ -124,6 +119,11 @@ This is an online event. We will meet using the online videoconference software 
 {% endfor %}
 
 {% if inperson == "true" %}
+
+<h2 id="registration">Registration</h2> 
+
+Please register via the Google form here: 
+<a href="http://bit.ly/elixir-carpentries-ttt-registration-form">http://bit.ly/elixir-carpentries-ttt-registration-form</a>
 
 <h4 id="accessibility">Accessibility</h4>
 
