@@ -120,11 +120,6 @@ This is an online event. We will meet using the online videoconference software 
 
 {% if inperson == "true" %}
 
-<h2 id="registration">Registration</h2> 
-
-Please register via the Google form here: 
-<a href="http://bit.ly/elixir-carpentries-ttt-registration-form">http://bit.ly/elixir-carpentries-ttt-registration-form</a>
-
 <h4 id="accessibility">Accessibility</h4>
 
 We are committed to making this workshop
@@ -144,6 +139,11 @@ please get in touch (using contact details below) and we will
 attempt to provide them.
 
 {% endif %}
+
+<h2 id="registration">Registration</h2> 
+
+Please register via the Google form here: 
+<a href="http://bit.ly/elixir-carpentries-ttt-registration-form">http://bit.ly/elixir-carpentries-ttt-registration-form</a>
 
 <h3>Requirements</h3>
 
